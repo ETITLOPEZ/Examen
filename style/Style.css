@@ -1,0 +1,37 @@
+header{
+	background-color: #d5e2eb;
+	border-radius: 50px;
+}
+footer{
+	background-color: #d5e2eb;
+	border-radius: 50px;
+}
+a{
+	color: black;
+	text-align: center;
+	size: 3px;
+	text-decoration: none;
+}
+input{
+	width: 40%;
+}
+.logo{
+	display: inline;
+	width: 30px;
+	height: 30px;
+}
+.divLink{
+	text-align: center;
+	display: inline-block;
+	float: right;
+	padding-top: 13px;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+.contentIndex{
+	margin: auto;
+	margin-top: 10px;
+	background-color: #d5e2eb;
+	border-radius: 10px;
+	width: 100%;
+}
